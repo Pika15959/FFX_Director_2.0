@@ -7,9 +7,9 @@ TAB2:Allows you to use a freecam in game by pressing 0 or 1 and then records the
 TAB3: Allows you to edit game field dialogue.
 
 
-
-
-![bandicam 2026-03-20 22-10-43-564](https://github.com/user-attachments/assets/aec6fb99-e2d8-40fd-8ad0-aae3bbda748c)
+![bandicam 2026-03-20 22-33-36-368](https://github.com/user-attachments/assets/b750142e-925b-40b7-88c2-a58220142144)
+![bandicam 2026-03-20 22-33-49-550](https://github.com/user-attachments/assets/7eeb1771-b3a5-485a-81d1-0a6407b24aa2)
+![bandicam 2026-03-20 22-33-52-308](https://github.com/user-attachments/assets/b20e0096-e765-4268-9fb0-93c30c989ab1)
 
 SET UP FOLDER STRUCTURE IN IMAGES BELOW:
 ![bandicam 2026-03-20 22-29-12-657](https://github.com/user-attachments/assets/e93e3207-e879-4363-bd27-998ea05ad9bb)
